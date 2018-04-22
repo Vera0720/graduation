@@ -360,3 +360,14 @@
     transform:translate(-50%,-50%);
     -webkit-transform:translate(-50%,-50%);
 }
+#content{
+    border: solid 1px #e4e9ec;
+    padding: 10px;
+}
+.grade{
+    width: 530px;
+    height: 38px;
+    padding-left: 8px;
+    border: solid 1px #e4e9ec;
+    background: #fdfbfc;
+}
